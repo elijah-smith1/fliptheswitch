@@ -1,0 +1,671 @@
+{
+  "site": {
+    "id": "flip-the-switch",
+    "name": "Flip The Switch Performance",
+    "tagline": "Elite Performance Coaching"
+  },
+  "pages": {
+    "home": {
+      "id": "home",
+      "title": "Flip The Switch",
+      "blocks": []
+    },
+    "about": {
+      "id": "about",
+      "title": "About",
+      "blocks": [
+        {
+          "type": "intro-section",
+          "title": "About Flip",
+          "subtitle": "Performance meets mindset — this is where you activate both."
+        },
+        {
+          "type": "content-block",
+          "label": "The Story",
+          "title": "Turning Potential Into Power",
+          "description": [
+            "I built Flip The Switch Performance to turn potential into power. Whether you're an athlete chasing greatness or someone ready to transform their life, my coaching switches on what's been inside you all along.",
+            "Every client I work with has that moment — the switch flips, and suddenly they see what they're capable of. That's what drives me. That's the mission."
+          ],
+          "image": {
+            "src": null,
+            "alt": "Turning Potential Into Power",
+            "placeholder": "Flip Portrait / Headshot"
+          },
+          "cta": null,
+          "stats": null,
+          "reverse": false,
+          "darkText": false
+        },
+        {
+          "type": "content-block",
+          "label": "Philosophy",
+          "title": "Train All Three: Body. Mind. Spirit.",
+          "description": [
+            "Performance isn't just physical. It's mental. It's emotional. When you flip the switch, you train all three. There are no shortcuts — just discipline, consistency, and the willingness to show up every single day.",
+            "My approach combines evidence-based training with mindset development. We build strength, speed, and resilience together — in the gym and in life."
+          ],
+          "image": {
+            "src": null,
+            "alt": "Train All Three: Body. Mind. Spirit.",
+            "placeholder": "Training Philosophy Shot"
+          },
+          "cta": null,
+          "stats": null,
+          "reverse": true,
+          "darkText": true
+        },
+        {
+          "type": "content-block",
+          "label": "Experience",
+          "title": "Credentials That Matter",
+          "description": [],
+          "image": {
+            "src": null,
+            "alt": "Credentials That Matter",
+            "placeholder": "Coaching Action Shot"
+          },
+          "cta": null,
+          "stats": null,
+          "reverse": false,
+          "darkText": false
+        },
+        {
+          "type": "media-row",
+          "items": [
+            {
+              "src": null,
+              "alt": "Training Photo 1",
+              "caption": "",
+              "placeholder": "Training Photo 1"
+            },
+            {
+              "src": null,
+              "alt": "Training Photo 2",
+              "caption": "",
+              "placeholder": "Training Photo 2"
+            },
+            {
+              "src": null,
+              "alt": "Training Photo 3",
+              "caption": "",
+              "placeholder": "Training Photo 3"
+            }
+          ]
+        },
+        {
+          "type": "image-divider",
+          "src": null,
+          "alt": "Gym Environment / Facility Shot",
+          "placeholder": "Gym Environment / Facility Shot"
+        },
+        {
+          "type": "features",
+          "title": "Who I Coach",
+          "items": [
+            {
+              "icon": "🏆",
+              "title": "Athletes",
+              "description": "Competitive athletes looking to sharpen their edge and dominate on game day. From high school to pro level."
+            },
+            {
+              "icon": "💪",
+              "title": "Adults",
+              "description": "Everyday performers ready to build strength, lose weight, and feel unstoppable in their daily lives."
+            },
+            {
+              "icon": "⚡",
+              "title": "Youth",
+              "description": "Young athletes developing fundamentals, confidence, and a love for training that sets them up for life."
+            }
+          ]
+        },
+        {
+          "type": "credentials",
+          "title": "",
+          "items": [
+            "Certified Strength & Conditioning Specialist (CSCS)",
+            "Performance Enhancement Specialist",
+            "Youth Athletic Development Certified",
+            "10+ Years Coaching Athletes at All Levels",
+            "Collegiate & Pro Athlete Training Experience"
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Ready to Flip the Switch?",
+          "description": "Let's talk about your goals and build a plan to get you there.",
+          "buttons": [
+            {
+              "text": "Get Started",
+              "href": "contact.html",
+              "variant": "yellow"
+            }
+          ],
+          "altBackground": true
+        }
+      ]
+    },
+    "programs": {
+      "id": "programs",
+      "title": "Training Programs",
+      "blocks": [
+        {
+          "type": "intro-section",
+          "title": "Training Programs",
+          "subtitle": "Choose your track. Commit to the process. Flip the switch."
+        },
+        {
+          "type": "content-block",
+          "label": "Featured Program",
+          "title": "Athlete Development",
+          "description": "Built for competitive athletes looking to sharpen their edge, increase power output, and dominate on game day. Sport-specific programming that translates to real results on the field, court, or track.",
+          "image": {
+            "src": null,
+            "alt": "Athlete Development",
+            "placeholder": "Athlete Development Photo"
+          },
+          "cta": {
+            "text": "Learn More",
+            "href": "contact.html",
+            "variant": "primary"
+          },
+          "stats": null,
+          "reverse": false,
+          "darkText": false
+        },
+        {
+          "type": "content-block",
+          "label": "Core Program",
+          "title": "Strength & Conditioning",
+          "description": "Progressive overload protocols designed to build functional strength, improve body composition, and increase overall work capacity. For athletes and adults alike who want measurable progress.",
+          "image": {
+            "src": null,
+            "alt": "Strength & Conditioning",
+            "placeholder": "Strength Training Photo"
+          },
+          "cta": {
+            "text": "Learn More",
+            "href": "contact.html",
+            "variant": "primary"
+          },
+          "stats": null,
+          "reverse": true,
+          "darkText": true
+        },
+        {
+          "type": "media-row",
+          "items": [
+            {
+              "src": null,
+              "alt": "Program Photo 1",
+              "caption": "",
+              "placeholder": "Program Photo 1"
+            },
+            {
+              "src": null,
+              "alt": "Program Photo 2",
+              "caption": "",
+              "placeholder": "Program Photo 2"
+            },
+            {
+              "src": null,
+              "alt": "Program Photo 3",
+              "caption": "",
+              "placeholder": "Program Photo 3"
+            }
+          ]
+        },
+        {
+          "type": "programs",
+          "title": "All Programs",
+          "programs": [
+            {
+              "title": "Speed & Agility",
+              "description": "Mechanics, efficiency, and reactive drills to move faster and smarter. Sprint training, change of direction, and footwork that makes you dangerous.",
+              "cta": {
+                "text": "Learn More",
+                "href": "contact.html",
+                "variant": "primary"
+              }
+            },
+            {
+              "title": "Youth Performance",
+              "description": "Age-appropriate development for young athletes. Build fundamentals, confidence, and a love for training that sets them up for long-term success.",
+              "cta": {
+                "text": "Learn More",
+                "href": "contact.html",
+                "variant": "primary"
+              }
+            },
+            {
+              "title": "Adult Transformation",
+              "description": "Sustainable training for busy adults who want to build strength, lose weight, and feel powerful. No gimmicks — just discipline and results.",
+              "cta": {
+                "text": "Learn More",
+                "href": "contact.html",
+                "variant": "primary"
+              }
+            },
+            {
+              "title": "Mobility & Recovery",
+              "description": "Injury prevention, flexibility work, and recovery protocols to keep you moving well and training hard for the long haul.",
+              "cta": {
+                "text": "Learn More",
+                "href": "contact.html",
+                "variant": "primary"
+              }
+            },
+            {
+              "title": "Online Coaching",
+              "description": "Remote programming with accountability, video feedback, and progress tracking. Train anywhere with elite-level guidance and support.",
+              "cta": {
+                "text": "Learn More",
+                "href": "contact.html",
+                "variant": "primary"
+              }
+            },
+            {
+              "title": "Team Training",
+              "description": "Strength & conditioning programs for sports teams. Build winners with coordinated training that elevates the entire squad.",
+              "cta": {
+                "text": "Learn More",
+                "href": "contact.html",
+                "variant": "primary"
+              }
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Not Sure Which Program?",
+          "description": "Book a free consultation and we'll find the right fit for your goals.",
+          "buttons": [
+            {
+              "text": "Book a Consultation",
+              "href": "contact.html",
+              "variant": "yellow"
+            }
+          ],
+          "altBackground": true
+        }
+      ]
+    },
+    "schedule": {
+      "id": "schedule",
+      "title": "Schedule",
+      "blocks": [
+        {
+          "type": "content-block",
+          "label": "Schedule",
+          "title": "Find Your Session. Show Up. Flip the Switch.",
+          "description": "Consistency beats intensity. Pick a time that works, lock it in, and show up ready to work. Your transformation starts with the first session.",
+          "image": {
+            "src": null,
+            "alt": "Find Your Session. Show Up. Flip the Switch.",
+            "placeholder": "Schedule / Clock / Gym Shot"
+          },
+          "cta": {
+            "text": "Book Now",
+            "href": "contact.html",
+            "variant": "yellow"
+          },
+          "stats": null,
+          "reverse": false,
+          "darkText": false
+        },
+        {
+          "type": "media-row",
+          "items": [
+            {
+              "src": null,
+              "alt": "Morning Session",
+              "caption": "",
+              "placeholder": "Morning Session"
+            },
+            {
+              "src": null,
+              "alt": "Afternoon Session",
+              "caption": "",
+              "placeholder": "Afternoon Session"
+            },
+            {
+              "src": null,
+              "alt": "Weekend Session",
+              "caption": "",
+              "placeholder": "Weekend Session"
+            }
+          ]
+        },
+        {
+          "type": "schedule",
+          "title": "Weekly Sessions",
+          "filters": [
+            "All Sessions",
+            "Athletes",
+            "Adults",
+            "Youth"
+          ],
+          "sessions": [
+            {
+              "title": "Athlete Development",
+              "time": "Monday & Wednesday • 6:00 AM",
+              "tag": "Athletes",
+              "selected": false
+            },
+            {
+              "title": "Strength & Conditioning",
+              "time": "Monday & Wednesday • 7:30 AM",
+              "tag": "Adults",
+              "selected": false
+            },
+            {
+              "title": "Speed & Agility",
+              "time": "Tuesday & Thursday • 6:00 AM",
+              "tag": "Athletes",
+              "selected": false
+            },
+            {
+              "title": "Youth Performance",
+              "time": "Tuesday & Thursday • 4:00 PM",
+              "tag": "Youth",
+              "selected": false
+            },
+            {
+              "title": "Adult Transformation",
+              "time": "Monday – Friday • 12:00 PM",
+              "tag": "Adults",
+              "selected": false
+            },
+            {
+              "title": "Open Gym",
+              "time": "Saturday • 8:00 AM – 12:00 PM",
+              "tag": "All",
+              "selected": false
+            },
+            {
+              "title": "1-on-1 Coaching",
+              "time": "By Appointment • Flexible Hours",
+              "tag": "All",
+              "selected": true
+            },
+            {
+              "title": "Team Training",
+              "time": "Contact for Scheduling",
+              "tag": "Athletes",
+              "selected": false
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "title": "Book Your Session",
+          "description": "Ready to lock in your spot? Contact us to schedule your first session or set up a recurring time that works for you.",
+          "buttons": [
+            {
+              "text": "Book Now",
+              "href": "contact.html",
+              "variant": "yellow"
+            },
+            {
+              "text": "View Programs",
+              "href": "programs.html",
+              "variant": "outline"
+            }
+          ],
+          "altBackground": true
+        }
+      ]
+    },
+    "gallery": {
+      "id": "gallery",
+      "title": "Gallery",
+      "blocks": [
+        {
+          "type": "content-block",
+          "label": "Gallery",
+          "title": "The Grind. The Gains. The Glory.",
+          "description": "Real athletes. Real work. Real results. This is what it looks like when you flip the switch and commit to becoming unstoppable.",
+          "image": {
+            "src": null,
+            "alt": "The Grind. The Gains. The Glory.",
+            "placeholder": "Hero Gallery Shot"
+          },
+          "cta": null,
+          "stats": null,
+          "reverse": false,
+          "darkText": false
+        },
+        {
+          "type": "content-block",
+          "label": "Athletes in Action",
+          "title": "Competition Ready",
+          "description": "From the training floor to the field. Watch our athletes translate their hard work into game-day performance that speaks for itself.",
+          "image": {
+            "src": null,
+            "alt": "Competition Ready",
+            "placeholder": "Athletes in Action Photo"
+          },
+          "cta": null,
+          "stats": null,
+          "reverse": true,
+          "darkText": true
+        },
+        {
+          "type": "content-block",
+          "label": "Transformations",
+          "title": "Results That Speak",
+          "description": "Before and after tells the story. These aren't quick fixes — they're the result of discipline, consistency, and the willingness to put in the work day after day.",
+          "image": {
+            "src": null,
+            "alt": "Results That Speak",
+            "placeholder": "Transformation Photo"
+          },
+          "cta": null,
+          "stats": [
+            {
+              "number": "500+",
+              "label": "Transformations"
+            },
+            {
+              "number": "12",
+              "label": "Week Average"
+            }
+          ],
+          "reverse": false,
+          "darkText": false
+        },
+        {
+          "type": "content-block",
+          "label": "Behind the Scenes",
+          "title": "The Real Work",
+          "description": "Not every moment is glamorous. The early mornings, the grind, the moments between sets — this is where champions are made.",
+          "image": {
+            "src": null,
+            "alt": "The Real Work",
+            "placeholder": "Behind the Scenes Photo"
+          },
+          "cta": null,
+          "stats": null,
+          "reverse": true,
+          "darkText": true
+        },
+        {
+          "type": "media-row",
+          "items": [
+            {
+              "src": null,
+              "alt": "Training 1",
+              "caption": "",
+              "placeholder": "Training 1"
+            },
+            {
+              "src": null,
+              "alt": "Training 2",
+              "caption": "",
+              "placeholder": "Training 2"
+            },
+            {
+              "src": null,
+              "alt": "Training 3",
+              "caption": "",
+              "placeholder": "Training 3"
+            }
+          ]
+        },
+        {
+          "type": "media-row",
+          "items": [
+            {
+              "src": null,
+              "alt": "Action 1",
+              "caption": "",
+              "placeholder": "Action 1"
+            },
+            {
+              "src": null,
+              "alt": "Action 2",
+              "caption": "",
+              "placeholder": "Action 2"
+            },
+            {
+              "src": null,
+              "alt": "Action 3",
+              "caption": "",
+              "placeholder": "Action 3"
+            }
+          ]
+        },
+        {
+          "type": "media-row",
+          "items": [
+            {
+              "src": null,
+              "alt": "Before/After 1",
+              "caption": "",
+              "placeholder": "Before/After 1"
+            },
+            {
+              "src": null,
+              "alt": "Before/After 2",
+              "caption": "",
+              "placeholder": "Before/After 2"
+            },
+            {
+              "src": null,
+              "alt": "Before/After 3",
+              "caption": "",
+              "placeholder": "Before/After 3"
+            }
+          ]
+        },
+        {
+          "type": "media-row",
+          "items": [
+            {
+              "src": null,
+              "alt": "BTS 1",
+              "caption": "",
+              "placeholder": "BTS 1"
+            },
+            {
+              "src": null,
+              "alt": "BTS 2",
+              "caption": "",
+              "placeholder": "BTS 2"
+            },
+            {
+              "src": null,
+              "alt": "BTS 3",
+              "caption": "",
+              "placeholder": "BTS 3"
+            }
+          ]
+        },
+        {
+          "type": "image-divider",
+          "src": null,
+          "alt": "Full Width Gym Environment Shot",
+          "placeholder": "Full Width Gym Environment Shot"
+        },
+        {
+          "type": "cta",
+          "title": "Ready to Be Part of This?",
+          "description": "Your transformation could be next. Let's get to work.",
+          "buttons": [
+            {
+              "text": "Start Training",
+              "href": "contact.html",
+              "variant": "yellow"
+            }
+          ],
+          "altBackground": true
+        }
+      ]
+    },
+    "contact": {
+      "id": "contact",
+      "title": "Contact",
+      "blocks": [
+        {
+          "type": "content-block",
+          "label": "Get In Touch",
+          "title": "Ready to Flip the Switch?",
+          "description": "Let's get to work. Whether you're ready to start training, have questions about programs, or want to discuss team coaching — reach out. I respond to every message personally.",
+          "image": {
+            "src": null,
+            "alt": "Ready to Flip the Switch?",
+            "placeholder": "Image"
+          },
+          "cta": {
+            "text": "Send Message",
+            "variant": "yellow"
+          },
+          "stats": null,
+          "reverse": false,
+          "darkText": true
+        },
+        {
+          "type": "image-divider",
+          "src": null,
+          "alt": "Gym / Facility Photo",
+          "placeholder": "Gym / Facility Photo"
+        },
+        {
+          "type": "features",
+          "title": "Common Questions",
+          "items": [
+            {
+              "icon": "",
+              "title": "First Session?",
+              "description": "Your first session includes a full assessment, goal-setting conversation, and introductory workout. Come ready to move."
+            },
+            {
+              "icon": "",
+              "title": "What to Bring?",
+              "description": "Athletic clothes, training shoes, water bottle, and a towel. Everything else is provided at the facility."
+            },
+            {
+              "icon": "",
+              "title": "Cancellation Policy?",
+              "description": "24-hour notice required for cancellations. Late cancellations may be charged. Life happens — just communicate."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "brand": {
+      "text": "",
+      "href": "/"
+    },
+    "items": []
+  },
+  "footer": {
+    "brand": "Flip The Switch Performance",
+    "email": "train@fliptheswitch.co",
+    "copyright": "© 2025 Flip The Switch. All rights reserved.",
+    "social": []
+  }
+}

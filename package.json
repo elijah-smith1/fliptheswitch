@@ -1,0 +1,22 @@
+{
+  "name": "flip-the-switch",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "migrate": "node scripts/migrateStaticToFirestore.js"
+  },
+  "dependencies": {
+    "firebase": "^10.7.1"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "firebase-admin": "^12.0.0",
+    "vite": "^5.0.10"
+  }
+}
+
