@@ -1,0 +1,21 @@
+[debug] [2026-01-05T17:07:31.325Z] ----------------------------------------------------------------------
+[debug] [2026-01-05T17:07:31.328Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Smith\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2026-01-05T17:07:31.328Z] CLI Version:   14.12.0
+[debug] [2026-01-05T17:07:31.329Z] Platform:      win32
+[debug] [2026-01-05T17:07:31.329Z] Node Version:  v20.15.0
+[debug] [2026-01-05T17:07:31.329Z] Time:          Mon Jan 05 2026 11:07:31 GMT-0600 (Central Standard Time)
+[debug] [2026-01-05T17:07:31.329Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-01-05T17:07:31.338Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-05T17:07:31.339Z] > authorizing via signed-in user (elijs0624@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Smith\software\fliptheswitch
+

@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Contact — Flip The Switch Performance</title>
-	<meta name="description" content="Ready to flip the switch? Contact Flip The Switch Performance and let's get to work.">
+	<title>Contact — Flip The Switch</title>
+	<meta name="description" content="Ready to see what different looks like? Contact Flip The Switch to book your personal training or sports performance session.">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -19,7 +19,7 @@
 				<ul>
 					<li><a href="index.html">Home</a></li>
 					<li><a href="about.html">About</a></li>
-					<li><a href="programs.html">Programs</a></li>
+					<li><a href="programs.html">Services</a></li>
 					<li><a href="schedule.html">Schedule</a></li>
 					<li><a href="gallery.html">Gallery</a></li>
 					<li><a aria-current="page" href="contact.html">Contact</a></li>
@@ -33,8 +33,8 @@
 		<div class="content-block" style="min-height: auto;">
 			<div class="content-block__text" style="padding: 5rem 4rem;">
 				<span class="content-block__label">Get In Touch</span>
-				<h1 class="content-block__title">Ready to Flip the Switch?</h1>
-				<p class="content-block__description">Let's get to work. Whether you're ready to start training, have questions about programs, or want to discuss team coaching — reach out. I respond to every message personally.</p>
+				<h1 class="content-block__title">Ready to See the Difference?</h1>
+				<p class="content-block__description">Whether you're looking to book a personal training session, start sports performance training, or join the bootcamp — let's talk. I respond to every message personally because that's how it works here.</p>
 				
 				<div style="margin-top: 2.5rem;">
 					<p style="margin-bottom: 1.25rem;">
@@ -43,13 +43,8 @@
 					</p>
 					
 					<p style="margin-bottom: 1.25rem;">
-						<strong style="color: #fff; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px;">Location</strong><br>
-						<span style="color: var(--color-text-muted);">Los Angeles, CA</span>
-					</p>
-					
-					<p style="margin-bottom: 1.25rem;">
-						<strong style="color: #fff; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px;">Hours</strong><br>
-						<span style="color: var(--color-text-muted);">Mon–Fri: 5AM – 8PM<br>Sat: 7AM – 2PM<br>Sun: Closed</span>
+						<strong style="color: #fff; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px;">Training Sessions</strong><br>
+						<span style="color: var(--color-text-muted);">60 & 30 Min Personal Training<br>1-on-1 Sports Performance<br>Semi-Private Sports Performance<br>Flip The Switch Bootcamp<br>Team Training</span>
 					</p>
 				</div>
 
@@ -81,6 +76,20 @@
 					</div>
 					
 					<div class="form-field">
+						<label for="service">Interested In</label>
+						<select id="service" name="service">
+							<option value="">Select a service...</option>
+							<option value="60-min-pt">60 Minute Personal Training</option>
+							<option value="30-min-pt">30 Minute Personal Training</option>
+							<option value="1on1-sports">1-on-1 Sports Performance</option>
+							<option value="semi-private">Semi-Private Sports Performance</option>
+							<option value="bootcamp">Flip The Switch Bootcamp</option>
+							<option value="team">Team Training</option>
+							<option value="other">Not sure yet / Other</option>
+						</select>
+					</div>
+					
+					<div class="form-field">
 						<label for="message">Message</label>
 						<textarea id="message" name="message" placeholder="Tell me about your goals..." required aria-required="true"></textarea>
 					</div>
@@ -91,8 +100,8 @@
 		</div>
 
 		<!-- FULL WIDTH IMAGE DIVIDER -->
-		<div class="image-divider image-divider--placeholder" data-label="Gym / Facility Photo">
-			<!-- Replace with: <img src="your-image.jpg" alt="Training facility"> -->
+		<div class="image-divider">
+			<img src="assets/css/logobig.jpg" alt="Flip The Switch">
 		</div>
 
 		<!-- FAQ / ADDITIONAL INFO -->
@@ -102,15 +111,15 @@
 				<div class="features" style="margin-top: 2rem;">
 					<div class="feature">
 						<h3>First Session?</h3>
-						<p>Your first session includes a full assessment, goal-setting conversation, and introductory workout. Come ready to move.</p>
+						<p>Your first session includes a goal-setting conversation and assessment so I can build a program tailored specifically to you. Come ready to work.</p>
 					</div>
 					<div class="feature">
 						<h3>What to Bring?</h3>
-						<p>Athletic clothes, training shoes, water bottle, and a towel. Everything else is provided at the facility.</p>
+						<p>Athletic clothes, training shoes, water bottle, and a towel. That's it — I've got everything else covered.</p>
 					</div>
 					<div class="feature">
 						<h3>Cancellation Policy?</h3>
-						<p>24-hour notice required for cancellations. Late cancellations may be charged. Life happens — just communicate.</p>
+						<p>24-hour notice required for cancellations. Life happens — just communicate and we'll work it out.</p>
 					</div>
 				</div>
 			</div>
@@ -119,7 +128,7 @@
 
 	<footer class="site-footer">
 		<div class="container">
-			<p style="margin-bottom: 0.75rem;"><strong style="color: #fff;">Flip The Switch Performance</strong></p>
+			<p style="margin-bottom: 0.75rem;"><strong style="color: #fff;">Flip The Switch</strong></p>
 			<p><a href="mailto:train@fliptheswitch.co">train@fliptheswitch.co</a></p>
 			<p style="margin-top: 1rem; font-size: 0.8rem;">© 2025 Flip The Switch. All rights reserved.</p>
 		</div>
